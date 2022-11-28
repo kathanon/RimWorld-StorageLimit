@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D42030BF-4356-45F1-BD77-089F5B53F394}") = "StorageLimit", "Source\StorageLimit.csproj", "{D481524B-0A7B-4EB3-A6BD-1F42FC49923E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D481524B-0A7B-4EB3-A6BD-1F42FC49923E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D481524B-0A7B-4EB3-A6BD-1F42FC49923E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D481524B-0A7B-4EB3-A6BD-1F42FC49923E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D481524B-0A7B-4EB3-A6BD-1F42FC49923E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30643E52-3F72-412E-A623-81A5A49343C8}
+	EndGlobalSection
+EndGlobal

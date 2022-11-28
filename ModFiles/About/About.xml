@@ -1,0 +1,24 @@
+<ModMetaData>
+	<name>Storage Limit</name>
+	<author>kathanon</author>
+    <packageId>kathanon.StorageLimit</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<description>Allows limiting the amount of a specific item or category that can be stored in a specific storage.
+
+This lets you have e.g. one stack of beer and one stack of psychite tea on the same shelf, without one kind filling all the slots.</description>
+	<url>https://github.com/kathanon/RimWorld-StorageLimit</url>
+
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId> 
+			<displayName>Harmony</displayName>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>brrainz.harmony</li>
+	</loadAfter>
+</ModMetaData>
